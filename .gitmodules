@@ -1,0 +1,3 @@
+[submodule "solidity-test-wrapped-ether"]
+	path = solidity-test-wrapped-ether
+	url = git@github.com:chiweitw/solidity-test-wrapped-ether.git
