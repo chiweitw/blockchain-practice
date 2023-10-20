@@ -1,3 +1,6 @@
 [submodule "solidity-test-wrapped-ether"]
 	path = solidity-test-wrapped-ether
 	url = git@github.com:chiweitw/solidity-test-wrapped-ether.git
+[submodule "erc721_and_receiver"]
+	path = erc721_and_receiver
+	url = git@github.com:chiweitw/erc721_and_receiver.git
